@@ -4,6 +4,7 @@ Smart Energy for IoT
 Steps to configure the Atomwire Master-Slave system. 
 
 Contents: 
+
 1. AtomWireMaster - This folder contains all the Arduino sketch, libraries and head files for configuring the 
 Arduino UNO as the master. Note that the libraries and the header files must be in the same folder as the sketch so that
 arduino IDE does not take the default files from its structure. 
